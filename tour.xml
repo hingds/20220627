@@ -75,51 +75,51 @@
 
 
 	
-	<scene name="scene_________________7" title="未命名_全景7" onstart="" thumburl="panos/________________7.tiles/thumb.jpg" lat="22.29245556" lng="114.26883056" heading="211.0">
+	<scene name="scene7" title="7" onstart="" thumburl="panos/7.tiles/thumb.jpg" lat="22.29245556" lng="114.26883056" heading="211.0">
 
 		<view hlookat="0.154" vlookat="0.000" fovtype="MFOV" fov="0.580" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
-		<preview url="panos/________________7.tiles/preview.jpg" />
+		<preview url="panos/7.tiles/preview.jpg" />
 
 		<image type="CYLINDER" hfov="1.00" vfov="0.435302" voffset="0.00" multires="true" tilesize="512">
 			<level tiledimagewidth="8448" tiledimageheight="3678">
-				<cylinder url="panos/________________7.tiles/l3/%0v/l3_%0v_%0h.jpg" />
+				<cylinder url="panos/7.tiles/l3/%0v/l3_%0v_%0h.jpg" />
 			</level>
 			<level tiledimagewidth="4224" tiledimageheight="1840">
-				<cylinder url="panos/________________7.tiles/l2/%0v/l2_%0v_%0h.jpg" />
+				<cylinder url="panos/7.tiles/l2/%0v/l2_%0v_%0h.jpg" />
 			</level>
 			<level tiledimagewidth="2112" tiledimageheight="920">
-				<cylinder url="panos/________________7.tiles/l1/%0v/l1_%0v_%0h.jpg" />
+				<cylinder url="panos/7.tiles/l1/%0v/l1_%0v_%0h.jpg" />
 			</level>
 		</image>
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="0.042" atv="0.001" distorted="false" zoom="false" linkedscene="scene_________________8" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="0.042" atv="0.001" distorted="false" zoom="false" linkedscene="scene8" />
 
 	</scene>
 
-	<scene name="scene_________________8" title="未命名_全景8" onstart="" thumburl="panos/________________8.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene8" title="8" onstart="" thumburl="panos/8.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="0.000" vlookat="0.000" fovtype="MFOV" fov="0.726" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
-		<preview url="panos/________________8.tiles/preview.jpg" />
+		<preview url="panos/8.tiles/preview.jpg" />
 
 		<image type="CYLINDER" hfov="1.00" vfov="0.544371" voffset="0.00" multires="true" tilesize="512">
 			<level tiledimagewidth="14592" tiledimageheight="7944">
-				<cylinder url="panos/________________8.tiles/l5/%0v/l5_%0v_%0h.jpg" />
+				<cylinder url="panos/8.tiles/l5/%0v/l5_%0v_%0h.jpg" />
 			</level>
 			<level tiledimagewidth="7296" tiledimageheight="3972">
-				<cylinder url="panos/________________8.tiles/l4/%0v/l4_%0v_%0h.jpg" />
+				<cylinder url="panos/8.tiles/l4/%0v/l4_%0v_%0h.jpg" />
 			</level>
 			<level tiledimagewidth="3648" tiledimageheight="1986">
-				<cylinder url="panos/________________8.tiles/l3/%0v/l3_%0v_%0h.jpg" />
+				<cylinder url="panos/8.tiles/l3/%0v/l3_%0v_%0h.jpg" />
 			</level>
 			<level tiledimagewidth="1792" tiledimageheight="976">
-				<cylinder url="panos/________________8.tiles/l2/%0v/l2_%0v_%0h.jpg" />
+				<cylinder url="panos/8.tiles/l2/%0v/l2_%0v_%0h.jpg" />
 			</level>
 			<level tiledimagewidth="1024" tiledimageheight="558">
-				<cylinder url="panos/________________8.tiles/l1/%0v/l1_%0v_%0h.jpg" />
+				<cylinder url="panos/8.tiles/l1/%0v/l1_%0v_%0h.jpg" />
 			</level>
 		</image>
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-0.167" atv="-0.001" distorted="false" zoom="false" linkedscene="scene_________________7" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="-0.167" atv="-0.001" distorted="false" zoom="false" linkedscene="scene7" />
 
 	</scene>
 
