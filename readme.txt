@@ -1,69 +1,32 @@
-Get PRO Here:
-https://templatesjungle.gumroad.com/l/waggy-pet-shop-ecommerce-html-website-template
+Bootstrap/HTML5 Responsive Template
 
-It is a free HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+Avenger Multi-purpose Responsive HTML5 Bootstrap Template is a free website template for all types of business. This template is a modern clean designed build on top of Bootstrap using HTML5 CSS3 this template fits in all types of domains like agency, business, consultancy, portfolio, real estate, interior designer, and many more. This template designed with height quality standards to meet the latest requirements and it is a responsive template fits in all devices with multi browser support. Download for free.  
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+Credits :
+-------
+=> Design and developed: "WebThemez"  http://webthemez.com
+=> Photos used in template: **Unsplash** - http://unsplash.com
+=> For more free web themes: http://webthemez.com
+=> Framework : http://getbootstrap.com
 
-
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
-
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
-
-However, you can remove the credit link by paying for No Attribution version of the template.
-
-
-RIGHTS
-
-You are allowed to use it in your personal projects and commercial projects.
-
-You can modify and sell it to your clients.
+Important Note:
+---------------
+To remove backlink from the template, you need to donate to remove the backlink from the template.
+Any question contact us: webthemez@gmail.com
 
 
-PROHIBITIONS
+License :
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-You cannot remove the credit link which links back to templatesjungle.com.
+- You are allowed to use all files for both personal and commercial projects.
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+- You do not have rights to redistribute,resell or offer files from this site to any third party
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+- If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
 
-You cannot host the download file in your website.
+- If you have any question,feel free to contact us at webthemez@gmail.com
 
-
-SUPPORT
-
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icomoon.io/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Slick Slider - https://kenwheeler.github.io/slick/
-Chocolat.js â€“ a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
-
-
+- All images user here is for demo purpose only, we are not responsible for any copyrights.
