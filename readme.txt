@@ -1,11 +1,22 @@
-Bootstrap/HTML5 Responsive Template
+Beauty Salon Bootstrap HTML5 Template is a flat good looking modern and stylish bootstrap theme suitable for small types of businesses such as beauty hair salons, massage center and many others. The template is fully responsive and mobile ready. It has the ability to function faultlessly on all types of browsers and modern devices and adapts suitably on small, big or wide screen resolutions.This template is built using latest Bootstrap framework with html5 and css3 which is very easy to customise. Download for free.  
+Key features
+-------------
+Twitter Bootstrap 3.3.1
+Clean & Developer-friendly HTML5 and CSS3 code
+100% Responsive Layout Design
+One Page
+Multipurpose theme
+Google Fonts Support
+Font Awesome 
+Smooth Scrolling 
+Fully Customizable
+Contact Form
 
-Avenger Multi-purpose Responsive HTML5 Bootstrap Template is a free website template for all types of business. This template is a modern clean designed build on top of Bootstrap using HTML5 CSS3 this template fits in all types of domains like agency, business, consultancy, portfolio, real estate, interior designer, and many more. This template designed with height quality standards to meet the latest requirements and it is a responsive template fits in all devices with multi browser support. Download for free.  
 
 Credits :
 -------
 => Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
+=> Photos used in template: **Unsplash** - http://unsplash.com, http://risewall.com/home-business-team-wallpapers.html
 => For more free web themes: http://webthemez.com
 => Framework : http://getbootstrap.com
 
